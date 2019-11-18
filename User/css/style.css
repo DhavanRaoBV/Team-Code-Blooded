@@ -1,0 +1,30 @@
+.navbar-brand h6{
+	font-size: 20px;
+	display: block;
+	text-transform: uppercase;
+}
+
+.navbar-brand h6{
+	color:white;
+	text-decoration: none;
+	display: inline-block;
+	line-height: 40px;
+	font-weight: bold;
+}
+
+h6 span {
+	color: #02a388;
+	font-size: 35px;
+}
+
+.nav-item{
+    font-size:20px;
+}
+body {
+    
+    background: rgb(207, 205, 205);
+    font-family: 'Arimo', Arial, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #010b26;
+  }
